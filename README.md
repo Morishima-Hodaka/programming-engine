@@ -20,8 +20,10 @@
 ### Git 版本管理
 - ⭐️ [Git常用命令](Git/Git常用命令.md)
 - ⭐️ [Git版本控制入门](Git/Git版本控制入门.md)
-- ⭐️ [Git版本控制入门](Git/Git版本控制入门.md)
-- ⭐️ [Git版本控制入门](Git/Git版本控制入门.md)
+- ⭐️ [Gitee码云](https://gitee.com/):开源中国于2013年推出的基于Git的代码托管平台
+- ⭐️ [Github](https://github.com/)
+- ⭐️ [Gitee wiki](https://gitee.com/oschina/git-osc/wikis/)
+- ⭐️ [Gitee 帮助](https://help.gitee.com/)
 
 
 
