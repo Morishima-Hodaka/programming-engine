@@ -5,6 +5,6 @@ git add *.*
 
 
 git commit -am "更新"
-git push origin master
+git push origin main
 pause
 
