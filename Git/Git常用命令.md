@@ -85,6 +85,12 @@ git clone http://gitee.com/xxxxxx/xxxxxx.git
 git checkout -b $feature_name
 ```
 
+切换到特性分支
+
+```
+git switch z
+```
+
 写代码，提交变更
 
 ```
