@@ -33,9 +33,13 @@
 
 
 ### 环境管理工具
+- [Miniconda](https://docs.conda.io/projects/miniconda/en/latest/):Miniconda是一款小巧的python环境管理工具
+- [miniconda常用命令](环境管理工具/miniconda常用命令.md)
 
 
 
 
 
-
+### 数据库
+- ⭐️ [MySQL](https://www.mysql.com/):MySQL是一个关系型数据库管理系统 
+- ⭐️ [MySQL安装](MySQL/MySQL安装.md)
